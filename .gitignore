@@ -19,6 +19,9 @@ env/
 .idea/
 *.swp
 
+# Claude Code
+.claude/
+
 # OS
 Thumbs.db
 desktop.ini
