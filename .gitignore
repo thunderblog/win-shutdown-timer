@@ -22,3 +22,6 @@ env/
 # OS
 Thumbs.db
 desktop.ini
+
+# シャットダウン予約状態ファイル
+.shutdown_state.json
